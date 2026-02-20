@@ -1,7 +1,7 @@
 <!-- =========================
       HEADER (Capsule Render)
 ========================= -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Seoeun%20Lee&fontSize=60&fontAlignY=35&desc=Space%20Situational%20Awareness%20%7C%20Orbit%20Determination%20%7C%20Optical%20Tracking&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=320&section=header&text=Seoeun%20Lee&fontSize=55&fontAlignY=38&desc=Space%20Situational%20Awareness%20Researcher&descAlignY=60)
 
 <div align="center">
 
