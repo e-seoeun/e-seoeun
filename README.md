@@ -1,9 +1,9 @@
-<!-- =========================
+'''<!-- =========================
       HEADER (Capsule Render)
 ========================= -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Seoeun%20Lee&fontSize=60&fontAlignY=35&desc=Space%20Situational%20Awareness%20%7C%20Orbit%20Determination%20%7C%20Optical%20Tracking&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=240&section=header&text=Seoeun%20Lee&fontSize=60&fontAlignY=35&desc=Space%20Situational%20Awareness%20%7C%20Orbit%20Determination%20%7C%20Optical%20Tracking&descAlignY=60)
 
-<div align="center">
+<div align="center">'''
 
 <!-- =========================
       QUICK LINKS / CONTACT
@@ -91,7 +91,7 @@
 - **IOD Playground**: Gauss/Gooding implementations & experiments  
 - **TLE Analytics**: epoch drift, RAAN trends, matching performance dashboards
 
-> Tip: GitHub 프로필 상단 “Pinned”에 4~6개만 두면 가장 예쁨.
+#> Tip: GitHub 프로필 상단 “Pinned”에 4~6개만 두면 가장 예쁨.
 
 ---
 
@@ -121,7 +121,7 @@
 
 ---
 
-<!-- =========================
-      FOOTER (Capsule Render)
-========================= -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer)
+#<!-- =========================
+#      FOOTER (Capsule Render)
+#========================= -->
+#![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer)
