@@ -32,7 +32,7 @@
 
 ## What I Do
 
-Hello, I am a Space Situational Awareness researcher at the Korea Aerospace Research Institute.
+Hello🙋🏻‍♀️ I am a Space Situational Awareness researcher at the Korea Aerospace Research Institute.
 I design RSO association workflows and conduct research related to SDA and STM to support sustainable space operations. In addition, I utilize Flight Dynamics Software(FDS) to perform orbit analysis and operational support for domestic satellites.
 
 
