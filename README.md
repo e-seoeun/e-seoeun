@@ -32,13 +32,8 @@
 
 ## What I Do
 
-<br/>
-
-**SSA Researcher @ KARI**  
-Association workflow design  
-Satellite Operations(FDS)
-Orbit analysis · Orbit determination · Conjunction assessment  
-Strong interest in SDA & STM for sustainable space operations 
+Hello, I am a Space Situational Awareness researcher at the Korea Aerospace Research Institute.
+I design RSO association workflows and conduct research related to SDA and STM to support sustainable space operations. In addition, I utilize Flight Dynamics Software(FDS) to perform orbit analysis and operational support for domestic satellites.
 
 
 <br/><br/>
@@ -49,12 +44,12 @@ Strong interest in SDA & STM for sustainable space operations
 
 <br/>
 
-- SSA using Ultra-wide-field optical
-- Association
-- Streak identification in congested LEO  
-- Orbit determination & propagation  
-- Maneuver detection & orbital decay analysis  
-
+SSA using Ultra-wide-field optical   
+Association   
+Streak identification in congested LEO  
+Orbit determination & propagation  
+Maneuver detection & orbital decay analysis  
+Conjunction assessment  
 
 <br/><br/>
 
