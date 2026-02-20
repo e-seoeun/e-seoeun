@@ -60,7 +60,7 @@ Conjunction assessment
 <br/>
 
 **Korea Aerospace Research Institute (KARI)**  
-National Satellite Information Utilization Support Center, SSA Researcher  
+National Satellite Information Utilization Support Center, SSA Team  
 
 <br/>
 
