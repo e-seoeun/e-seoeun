@@ -85,7 +85,7 @@ Advisor: Prof. Yong-Ik Byun
 <br/>
 
 **Chungbuk National University**  
-B.S., Astronomy & Space Science & Physics (Double Major)  
+B.S., Astronomy & Space Science / Physics (Double Major)  
 Advisor: Prof. Kimitake Hayasaki  
 
 
