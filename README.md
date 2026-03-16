@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝗦𝗘𝗢𝗘𝗨𝗡 𝗟𝗘𝗘
+# 𝗦𝗘𝗢-𝗘𝗨𝗡 𝗟𝗘𝗘
 
 ### Space Situational Awareness · Satellite Operations
 
