@@ -89,31 +89,6 @@ B.S., Astronomy & Space Science / Physics (Double Major)
 Advisor: Prof. Kimitake Hayasaki  
 
 
-<br/><br/>
-
----
-
-## Tech Stack
-
-<br/>
-
-**Languages**  
-Python · MATLAB 
-
-<br/>
-
-**Scientific Computing**  
-NumPy · SciPy · Pandas · Astropy · Matplotlib  
-
-<br/>
-
-**SSA / Astrodynamics**  
-SGP4 · Skyfield · Orekit · STK · ODTK  
-
-<br/>
-
-**Workflow**  
-Git · GitHub · Conda  
 
 
 <br/><br/>
